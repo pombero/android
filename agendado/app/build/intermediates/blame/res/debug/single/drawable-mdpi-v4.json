@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rbarbieri/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/search.png",
+        "source": "/home/rbarbieri/AndroidStudioProjects/agendado/app/src/main/res/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/home/rbarbieri/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/rbarbieri/AndroidStudioProjects/agendado/app/src/main/res/drawable-mdpi/icon.png"
+    }
+]

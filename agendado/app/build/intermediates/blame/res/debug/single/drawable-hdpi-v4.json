@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rbarbieri/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/home/rbarbieri/AndroidStudioProjects/agendado/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/rbarbieri/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/search.png",
+        "source": "/home/rbarbieri/AndroidStudioProjects/agendado/app/src/main/res/drawable-hdpi/search.png"
+    }
+]
