@@ -1,0 +1,30 @@
+<sql>
+<statement>
+CREATE TABLE IF NOT EXISTS employee (
+	_id INTEGER PRIMARY KEY AUTOINCREMENT, 
+	firstName VARCHAR(50), 
+	lastName VARCHAR(50), 
+	title VARCHAR(50), 
+	department VARCHAR(50), 
+	managerId INTEGER, 
+	city VARCHAR(50), 
+	officePhone VARCHAR(30), 
+	cellPhone VARCHAR(30), 
+	email VARCHAR(30), 
+	picture VARCHAR(200))
+</statement>
+<statement>INSERT INTO employee VALUES(1,'Beto','Alonso','Presidente', 'Administracion', NULL, 'Google','570-999-8888','570-999-8887','alonso@google.com','beto.jpg')</statement>
+<statement>INSERT INTO employee VALUES(2,'Enzo','Francescoli','Manager Regional','Administracion',1,'Google','570-888-9999','570-222-3333','francescoli@google.com','enzo.jpg')</statement>
+<statement>INSERT INTO employee VALUES(3,'Marcelo','Gallardo','Asistente Manager Regional','Administracion',2,'Google','570-444-4444','570-333-3333','gallardo@google.com','marcelog.jpg')</statement>
+<statement>INSERT INTO employee VALUES(4,'Marcelo','Salas','Asistente Manager Regional','Administracion',2,'Google','570-222-2121','570-999-1212','salas@google.com','marcelos.jpg')</statement>
+<statement>INSERT INTO employee VALUES(5,'Amadeo','Carrizo','Recepcionista','',2,'Google','570-999-5555','570-999-7474','carrizo@google.com','amadeo.jpg')</statement>
+<statement>INSERT INTO employee VALUES(6,'Ariel','Ortega','Contador Senior','Contabilidad',2,'Google','570-555-9696','570-999-3232','ortega@google.com','ariel.jpg')</statement>
+<statement>INSERT INTO employee VALUES(7,'Ángel','Labruna','Contador','Contabilidad',6,'Google','570-777-9696','570-111-2525','labruna@google.com','angel.jpg')</statement>
+<statement>INSERT INTO employee VALUES(8,'Celso','Ayala','Contador','Contabilidad',6,'Google','570-321-9999','570-585-3333','ayala@google.com','celso.jpg')</statement>
+<statement>INSERT INTO employee VALUES(9,'Hernán','Crespo','Asegurador de Calidad','Serivicos Clientes',2,'Google','570-222-6666','333-8585','crespo@google.com','hernan.jpg')</statement>
+<statement>INSERT INTO employee VALUES(10,'Leonardo','Astrada','Director de Ventas','Ventas',2,'Google','570-555-0000','570-546-9999','astrada@google.com','leonardo.jpg')</statement>
+<statement>INSERT INTO employee VALUES(11,'Matías','Almeyda','Representante de Ventas','Ventas',10,'Google','570-141-3333','570-888-6666','almeyda@google.com','matias.jpg')</statement>
+<statement>INSERT INTO employee VALUES(12,'Javier','Saviola','Representante de Ventas','Ventas',10,'Google','570-700-6666','570-777-6666','saviola@google.com','javier.jpg')</statement>
+<statement>INSERT INTO employee VALUES(13,'Mario','Kempes','Relacionamiento con Proveedores','Serivicos Clientes',2,'Google','570-555-8888','570-777-2222','kempes@google.com','mario.jpg')</statement>
+<statement>INSERT INTO employee VALUES(14,'Juan Pablo','Sorín','Representante Servicio a Clientes','Serivicos Clientes',2,'Google','570-123-9654','570-125-3666','sorin@google.com','juanpablo.jpg')</statement>
+</sql>
