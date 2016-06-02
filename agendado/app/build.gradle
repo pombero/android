@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "samples.employeedirectory"
+        applicationId "workagenda.employees"
         minSdkVersion 8
         targetSdkVersion 8
     }

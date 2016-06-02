@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/rbarbieri/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
-        "source": "/home/rbarbieri/AndroidStudioProjects/agendado/app/src/main/res/drawable-ldpi/icon.png"
+        "merged": "/media/rjb/eternauta/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/search.png",
+        "source": "/media/rjb/eternauta/AndroidStudioProjects/agendado/app/src/main/res/drawable-ldpi/search.png"
     },
     {
-        "merged": "/home/rbarbieri/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/search.png",
-        "source": "/home/rbarbieri/AndroidStudioProjects/agendado/app/src/main/res/drawable-ldpi/search.png"
+        "merged": "/media/rjb/eternauta/AndroidStudioProjects/agendado/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/media/rjb/eternauta/AndroidStudioProjects/agendado/app/src/main/res/drawable-ldpi/icon.png"
     }
 ]
